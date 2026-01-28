@@ -1,0 +1,12 @@
+[
+  {
+    "relation": ["delegate_permission/common.handle_all_urls"],
+    "target": {
+      "namespace": "android_app",
+      "package_name": "com.demowallet",
+      "sha256_cert_fingerprints": [
+        "A1:DB:01:A5:35:49:F6:D7:0D:5B:BB:45:B2:93:3A:0F:EE:1B:D3:E5:35:1E:7B:1D:28:09:35:60:2D:F0:2A:FC"
+      ]
+    }
+  }
+]
